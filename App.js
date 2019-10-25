@@ -33,7 +33,7 @@ const styles = StyleSheet.create({
   },
   paragraph: {
     margin: 24,
-    fontSize: 20,
+    fontSize: 18,
     fontWeight: 'bold',
     textAlign: 'center',
   },
