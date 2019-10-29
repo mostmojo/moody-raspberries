@@ -14,6 +14,7 @@ export default class AssetExample extends React.Component {
   }
 }
 
+// Styling objects
 const styles = StyleSheet.create({
   container: {
     alignItems: 'center',

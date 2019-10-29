@@ -22,7 +22,7 @@ export default class App extends React.Component {
     );
   }
 }
-
+// Styling objects
 const styles = StyleSheet.create({
   container: {
     flex: 1,
