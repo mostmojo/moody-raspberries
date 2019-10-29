@@ -13,7 +13,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Hello, I'm Jacob. Time to build a mobile app!
+          Hello, I'm Jacob. Time to build a mobile app in React Native!
         </Text>
         <Card>
           <AssetExample />
