@@ -11,7 +11,7 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text style={styles.paragraph}>
-          Hello, time to build a mobile app in React Native!
+          Hello, let's build a mobile app in React Native!
         </Text>
         <Card>
           <AssetExample />
